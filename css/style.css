@@ -21,11 +21,6 @@ h1 {
     margin-bottom: 20px;
 }
 
-label {
-    display: block;
-    margin-bottom: 10px;
-}
-
 input[type="number"] {
     width: 150px;
     padding: 8px;
@@ -33,19 +28,4 @@ input[type="number"] {
     border: 1px solid #ccc;
     border-radius: 3px;
     font-size: 16px;
-}
-
-button {
-    padding: 10px 20px;
-    margin-top: 10px;
-    background-color: blueviolet;
-    color: #fff;
-    border: none;
-    border-radius: 3px;
-    cursor: pointer;
-    font-size: 16px;
-}
-
-button:hover {
-    background-color: darkmagenta;
 }
